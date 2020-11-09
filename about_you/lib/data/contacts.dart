@@ -1,0 +1,15 @@
+const List<String> kContacts = <String>[
+  'Adi Shamir',
+  'Alan Kay',
+  'Andrew Yao',
+  'Barbara Liskov',
+  'Cristian Zazo',
+  'Kristen Nygaard',
+  'Leonard Adleman',
+  'Leslie Lamport',
+  'Ole-Johan Dahl',
+  'Peter Naur',
+  'Robert E. Kahn',
+  'Ronald L. Rivest',
+  'Vinton G. Cerf',
+];
